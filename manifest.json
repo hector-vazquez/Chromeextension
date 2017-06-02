@@ -1,12 +1,11 @@
 {
-  "name": "Thomas & Friends Extension",
+  "name": "DRAKE Extension",
 
   "version": "1.0",
 
   "manifest_version": 2,
 
-  "description": "All images will be replaced with Thomas & Friends photos.",
-
+  "description": "All images will be replaced with DRAKE
   "content_scripts": [
 
     {
