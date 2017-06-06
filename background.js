@@ -4,14 +4,12 @@
 	
     $.extend(self, {
         nCageImgs : [
-           '//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
+            'https://iscale.iheart.com/v3/url/aHR0cDovL2ltYWdlLmloZWFydC5jb20vaW1hZ2VzL3JvdmkvMTA4MC8wMDAzLzcyMy9NSTAwMDM3MjM4NDguanBn',
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsagGp1Ba3wPjWE9rPzlRvlE6cCE0YSUu4iE0ng2YplAy3gY',
+            'http://www.rap-up.com/app/uploads/2017/06/dj-khaled-drake-to-the-max.jpg',
+            'http://globalspin365.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-10-at-9.00.15-PM.png'
+            'http://static.spin.com/files/2017/04/4a57715a1b4a43437178b781f9d9457d.1000x1000x1-1493355567.jpg'
+            
         ],
         handleImages : function (lstImgs, time)
         {
